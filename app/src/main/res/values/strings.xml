@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Utility Tools</string>
+    <string name="flash">Flashlight</string>
+    <string name="compass">Compass</string>
+    <string name="maps">Maps</string>
+    <string name="stopwatch">Stopwatch</string>
+    <string name="programmer">Michael Angelo Cadavillo</string>
+    <!--<string name="banner_ad_unit_id">ca-app-pub-7974952675001102~2522171472</string>-->
+    <string name="title_activity_maps">Map</string>
+    <string name="appID">ca-app-pub-7974952675001102~2522171472</string>
+    <string name="adUnitID">ca-app-pub-7974952675001102/1082331513</string>
+
+    <string name="iAppID">ca-app-pub-7974952675001102~2522171472</string>
+    <string name="iAdUnitID">ca-app-pub-7974952675001102/2435775785</string>
+
+    <string name="vAppID">ca-app-pub-7974952675001102~2522171472</string>
+    <string name="vAdUnitID">ca-app-pub-7974952675001102/6099882142</string>
+
+    <!--<string name="appID">ca-app-pub-7442329123714606~1329017174</string>-->
+    <!--<string name="adUnitID">ca-app-pub-7442329123714606/5916087308</string>-->
+</resources>
